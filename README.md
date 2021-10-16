@@ -8,3 +8,6 @@ This is repo about 2st PCEO AI CLUB competition that I hosted. Competition was h
 - Code : All codes that members shared at this compeition. 
 - Docs : Korean Explanation about this competition. 
 - Submission : All submissions of this competition. 
+
+## Warning
+Train and test data is on request due to the file size limit. Please contact me. 
